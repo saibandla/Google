@@ -37,6 +37,12 @@ UIAlertView *alert;
         
     }
 }
+
+
+-(void)test
+{
+    
+}
 - (void)viewDidLoad
 {
     [super viewDidLoad];
